@@ -26,6 +26,7 @@ TESTS := \
 	file_rename \
 	filter_exclude \
 	filter_exit \
+	filter_filetype \
 	filter_inode \
 	filter_saddr_fam \
 	filter_sessionid \
